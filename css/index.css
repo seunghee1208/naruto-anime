@@ -84,6 +84,6 @@ header:hover .gnb li a {opacity: 1;}
 .light_box .light:nth-child(1) {animation: effect 10s infinite linear;}
 @keyframes effect {
     0% {background-position: 0 0;}
-    100% {background-position: -800px -1000px;}
+    100% {background-position: 0px -1000px;}
 }
 
